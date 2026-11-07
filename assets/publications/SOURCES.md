@@ -2,10 +2,14 @@
 
 ## Current explanatory flowcharts
 
-- `pre-mechanism-flow.png`: adaptive phase frustration, collective-state feedback, numerical checks, and the scope of Ott-Antonsen reduction. Based on the PRE paper and author manuscript; DOI: https://doi.org/10.1103/8nxh-kpt8.
-- `hybrid-forcing-mechanism-flow.png`: constant and state-dependent driving terms, the feedback mechanism, numerical and theoretical analysis, and entrainment-transition regimes. Based on the published article; DOI: https://doi.org/10.1016/j.chaos.2026.118699.
+- `pre-mechanism-tech.png`: adaptive phase frustration, collective-state feedback, numerical checks, and the scope of Ott-Antonsen reduction. Based on the PRE paper and author manuscript; DOI: https://doi.org/10.1103/8nxh-kpt8.
+- `hybrid-forcing-mechanism-tech.png`: constant and state-dependent driving terms, the feedback mechanism, numerical and theoretical analysis, and entrainment-transition regimes. Based on the published article; DOI: https://doi.org/10.1016/j.chaos.2026.118699.
 
-These Chinese diagrams were created with the built-in imagegen tool and checked against the papers for formulas, feedback directions, and qualifications. They explain mechanisms and research methods; they are not original paper figures, simulated data, or quantitative results. The diagrams explicitly state this distinction. [Generation prompts](./DIAGRAM_PROMPTS.md) are retained for future revision.
+These Chinese diagrams were created with the built-in imagegen tool and checked against the papers for formulas, feedback directions, and qualifications. They explain mechanisms and research methods; they are not original paper figures, simulated data, or quantitative results. The diagrams explicitly state this distinction. [Generation prompts](./DIAGRAM_PROMPTS_TECH.md) are retained for future revision.
+
+## Earlier explanatory design retained
+
+The earlier light-background diagrams remain as `pre-mechanism-flow.png` and `hybrid-forcing-mechanism-flow.png`, with their original prompts in [DIAGRAM_PROMPTS.md](./DIAGRAM_PROMPTS.md). The current dark technology design uses conceptual oscillator-phase graphics while preserving the scientific statements and their conditions.
 
 ## Original paper figures retained
 

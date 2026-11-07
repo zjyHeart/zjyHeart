@@ -26,8 +26,8 @@
 研究自适应相位挫折如何通过集体状态反馈诱导双稳态与滞回同步转变，并结合数值扫描和 Ott–Antonsen 降维解释转变机制。
 
 <p align="center">
-  <a href="./assets/publications/pre-mechanism-flow.png">
-    <img src="./assets/publications/pre-mechanism-flow.png" alt="PRE 机制解释流程图：集体相干性增强使相位挫折减小，形成有效吸引的正反馈；数值检验与有适用条件的 OA 降维解释双稳态和滞回同步。" width="900">
+  <a href="./assets/publications/pre-mechanism-tech.png">
+    <img src="./assets/publications/pre-mechanism-tech.png" alt="PRE 机制解释流程图：集体相干性增强使相位挫折减小，形成有效吸引的正反馈；数值检验与有适用条件的 OA 降维解释双稳态和滞回同步。" width="900">
   </a><br>
   <sub>AI 机制解释示意图 · 研究问题 → 状态反馈 → 数值与理论 → 主要结论 · 点击查看高清图</sub>
 </p>
@@ -44,8 +44,8 @@
 研究混合周期驱动如何改变振子群体的锁频转变，关注连续转变、突变与滞回之间的联系。
 
 <p align="center">
-  <a href="./assets/publications/hybrid-forcing-mechanism-flow.png">
-    <img src="./assets/publications/hybrid-forcing-mechanism-flow.png" alt="混合驱动机制解释流程图：同频的恒定项与状态依赖项构成外驱，相干性反馈影响锁频；结合正反扫描与理论分支分析平滑转变、突变和滞回。" width="900">
+  <a href="./assets/publications/hybrid-forcing-mechanism-tech.png">
+    <img src="./assets/publications/hybrid-forcing-mechanism-tech.png" alt="混合驱动机制解释流程图：同频的恒定项与状态依赖项构成外驱，相干性反馈影响锁频；结合正反扫描与理论分支分析平滑转变、突变和滞回。" width="900">
   </a><br>
   <sub>AI 机制解释示意图 · 混合驱动 → 正反馈 → 分析方法 → 锁频转变 · 点击查看高清图</sub>
 </p>
