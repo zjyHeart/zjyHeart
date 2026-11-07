@@ -18,6 +18,17 @@
 
 ## 论文与代码
 
+### Hysteretic synchronization transitions induced by adaptive phase frustration
+
+**Junyi Zheng**, Changgui Gu, Jiangsheng Wang, Yuxuan Song<br>
+*Physical Review E* **114** (2026), 054206
+
+研究自适应相位挫折如何通过集体状态反馈诱导双稳态与滞回同步转变，并结合数值扫描和 Ott–Antonsen 降维解释转变机制。
+
+[论文 DOI ↗](https://doi.org/10.1103/8nxh-kpt8)　 /　 [APS 期刊页面 ↗](https://journals.aps.org/pre/abstract/10.1103/8nxh-kpt8)
+
+<sub>第一作者 · 2026 年 11 月 3 日正式发表</sub>
+
 ### Hybrid forcing control of entrainment transitions
 
 **Junyi Zheng**, Changgui Gu, Jiangsheng Wang, Guolin Wu  
