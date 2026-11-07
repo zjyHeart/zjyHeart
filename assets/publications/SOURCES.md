@@ -2,12 +2,14 @@
 
 ## Current monochrome mechanism banners
 
-- `pre-mechanism-mono-banner.png`: adaptive phase frustration and the reinforcing collective-state feedback under beta > 0 and 0 < alpha_0 < pi/2. Based on the PRE paper and author manuscript; DOI: https://doi.org/10.1103/8nxh-kpt8.
-- `hybrid-forcing-mechanism-mono-banner.png`: same-phase constant and state-dependent driving terms, with coherence feedback routed only to the state-dependent term. Based on the published article; DOI: https://doi.org/10.1016/j.chaos.2026.118699.
+- `pre-mechanism-mono-clear.png`: adaptive phase frustration and the reinforcing collective-state feedback under beta > 0 and 0 < alpha_0 < pi/2. Based on the PRE paper and author manuscript; DOI: https://doi.org/10.1103/8nxh-kpt8.
+- `hybrid-forcing-mechanism-mono-clear.png`: same-phase constant and state-dependent driving terms, with coherence feedback routed only to the state-dependent term. Based on the published article; DOI: https://doi.org/10.1016/j.chaos.2026.118699.
 
-These Chinese diagrams were created with the built-in imagegen tool and checked against the papers for formulas, feedback directions, and qualifications. These minimal-text banners use a black/white/gray line-art style and an exact 3:1 aspect ratio and explain the core mechanisms; they are not original paper figures, simulated data, or quantitative results. The diagrams explicitly state this distinction. [Generation prompts](./DIAGRAM_PROMPTS_MONO.md) are retained for future revision.
+These Chinese diagrams were created with the built-in imagegen tool and checked against the papers for formulas, feedback directions, and qualifications. These minimal-text banners use a black/white/gray line-art style and an exact 3:1 aspect ratio and explain the core mechanisms; they are not original paper figures, simulated data, or quantitative results. The profile captions and this source note identify this distinction; the images have no top-right explanatory label. [Generation prompts](./DIAGRAM_PROMPTS_CLEAR.md) are retained for future revision.
 
 ## Earlier explanatory design retained
+
+The first monochrome banners remain as `pre-mechanism-mono-banner.png` and `hybrid-forcing-mechanism-mono-banner.png`, with prompts in [DIAGRAM_PROMPTS_MONO.md](./DIAGRAM_PROMPTS_MONO.md). The current revision removes the top-right label, uses distinct PRE phase-vector/phase-lag/phase-attraction graphics, and separates the hybrid driving path from the dashed state-feedback path. The hybrid oscillator symbol is a phasor ensemble, not a directed ring network.
 
 The more detailed dark diagrams remain as `pre-mechanism-tech.png` and `hybrid-forcing-mechanism-tech.png`, with their prompts in [DIAGRAM_PROMPTS_TECH.md](./DIAGRAM_PROMPTS_TECH.md).
 
