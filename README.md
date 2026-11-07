@@ -26,10 +26,10 @@
 研究自适应相位挫折如何通过集体状态反馈诱导双稳态与滞回同步转变，并结合数值扫描和 Ott–Antonsen 降维解释转变机制。
 
 <p align="center">
-  <a href="https://doi.org/10.1103/8nxh-kpt8">
-    <img src="./assets/publications/pre-figure-1-author-manuscript.png" alt="作者稿图 1：不同初始相位挫折下，序参量与有效挫折角的正反向扫描及理论分支。" width="480">
+  <a href="./assets/publications/pre-mechanism-flow.png">
+    <img src="./assets/publications/pre-mechanism-flow.png" alt="PRE 机制解释流程图：集体相干性增强使相位挫折减小，形成有效吸引的正反馈；数值检验与有适用条件的 OA 降维解释双稳态和滞回同步。" width="900">
   </a><br>
-  <sub>作者稿 Fig. 1 · 自适应相位挫折下的同步转变与滞回</sub>
+  <sub>AI 机制解释示意图 · 研究问题 → 状态反馈 → 数值与理论 → 主要结论 · 点击查看高清图</sub>
 </p>
 
 [论文 DOI ↗](https://doi.org/10.1103/8nxh-kpt8)　 /　 [APS 期刊页面 ↗](https://journals.aps.org/pre/abstract/10.1103/8nxh-kpt8)
@@ -44,10 +44,10 @@
 研究混合周期驱动如何改变振子群体的锁频转变，关注连续转变、突变与滞回之间的联系。
 
 <p align="center">
-  <a href="https://doi.org/10.1016/j.chaos.2026.118699">
-    <img src="./assets/publications/hybrid-forcing-figure-3.png" alt="原文图 3：混合驱动下的序参量相图，展示非相干区、锁频区和滞回区。" width="480">
+  <a href="./assets/publications/hybrid-forcing-mechanism-flow.png">
+    <img src="./assets/publications/hybrid-forcing-mechanism-flow.png" alt="混合驱动机制解释流程图：同频的恒定项与状态依赖项构成外驱，相干性反馈影响锁频；结合正反扫描与理论分支分析平滑转变、突变和滞回。" width="900">
   </a><br>
-  <sub>原文 Fig. 3 · 混合驱动下的锁频相图与滞回区域</sub>
+  <sub>AI 机制解释示意图 · 混合驱动 → 正反馈 → 分析方法 → 锁频转变 · 点击查看高清图</sub>
 </p>
 
 [论文 DOI ↗](https://doi.org/10.1016/j.chaos.2026.118699)　 /　 [MATLAB 参考实现 ↗](https://github.com/zjyHeart/hybrid-forcing-entrainment-simulations)
