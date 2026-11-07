@@ -5,7 +5,7 @@
 - `pre-mechanism-mono-clear.png`: adaptive phase frustration and the reinforcing collective-state feedback under beta > 0 and 0 < alpha_0 < pi/2. Based on the PRE paper and author manuscript; DOI: https://doi.org/10.1103/8nxh-kpt8.
 - `hybrid-forcing-mechanism-mono-clear.png`: same-phase constant and state-dependent driving terms, with coherence feedback routed only to the state-dependent term. Based on the published article; DOI: https://doi.org/10.1016/j.chaos.2026.118699.
 
-These Chinese diagrams were created with the built-in imagegen tool and checked against the papers for formulas, feedback directions, and qualifications. These minimal-text banners use a black/white/gray line-art style and an exact 3:1 aspect ratio and explain the core mechanisms; they are not original paper figures, simulated data, or quantitative results. The profile captions and this source note identify this distinction; the images have no top-right explanatory label. [Generation prompts](./DIAGRAM_PROMPTS_CLEAR.md) are retained for future revision.
+These Chinese diagrams were created with the built-in imagegen tool and checked against the papers for formulas, feedback directions, and qualifications. These minimal-text banners use a black/white/gray line-art style and an exact 3:1 aspect ratio and explain the core mechanisms; they are not original paper figures, simulated data, or quantitative results. This source note identifies this distinction; the images have no top-right explanatory label. [Generation prompts](./DIAGRAM_PROMPTS_CLEAR.md) are retained for future revision.
 
 ## Earlier explanatory design retained
 

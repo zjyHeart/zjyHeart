@@ -28,8 +28,7 @@
 <p align="center">
   <a href="./assets/publications/pre-mechanism-mono-clear.png">
     <img src="./assets/publications/pre-mechanism-mono-clear.png" alt="自适应相位挫折的正反馈示意：β>0 且 0<α₀<π/2 时，相干性增强使相位挫折减小、有效吸引增强。" width="900">
-  </a><br>
-  <sub>AI 机制示意 · 点击放大</sub>
+  </a>
 </p>
 
 [论文 DOI ↗](https://doi.org/10.1103/8nxh-kpt8)　 /　 [APS 期刊页面 ↗](https://journals.aps.org/pre/abstract/10.1103/8nxh-kpt8)
@@ -46,8 +45,7 @@
 <p align="center">
   <a href="./assets/publications/hybrid-forcing-mechanism-mono-clear.png">
     <img src="./assets/publications/hybrid-forcing-mechanism-mono-clear.png" alt="混合周期驱动机制示意：同相位的恒定项与状态依赖项相加，驱动振子群体；集体相干度 R 只反馈至状态依赖项。" width="900">
-  </a><br>
-  <sub>AI 机制示意 · 点击放大</sub>
+  </a>
 </p>
 
 [论文 DOI ↗](https://doi.org/10.1016/j.chaos.2026.118699)　 /　 [MATLAB 参考实现 ↗](https://github.com/zjyHeart/hybrid-forcing-entrainment-simulations)
